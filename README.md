@@ -1,9 +1,8 @@
-### 💨 Hello, my name is Aziz
+## 💨 Hello, my name is Aziz
 I am JavaScript, PHP, NodeJS, CSS, HTML developer.<br>
 I have dream to build programming Discord server : **https://discord.com/invite/XTYabJGmDX**
 
-##### 🌐 My Web : work on it
-##### 💬 Documentation: work on it<br>
+#### 🌐 My Web : work on it
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizmjaber02&show_icons=true&theme=dark)
 
