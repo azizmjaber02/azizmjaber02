@@ -12,4 +12,3 @@ I have dream to build programming Discord server : **https://discord.com/invite/
 [![Pinned Projects](https://github-readme-stats.vercel.app/api/pin/?username=azizmjaber02&repo=KemzoDev-Network&show_icons=true&theme=dark)](https://github.com/azizmjaber02/KemzoDev-Network)
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=azizmjaber02.azizmjaber02)
-[![GitHub Repository Badge](https://gb-maker.herokuapp.com/makebadge/small/azizmjaber02/KemzoDev-Network)](https://github.com/azizmjaber02/KemzoDev-Network)
